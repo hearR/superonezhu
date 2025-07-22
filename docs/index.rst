@@ -13,3 +13,5 @@ QuecOS 编程指南
    get-started/index
    api_reference/index
    reST_standard/index
+   Sphinx_tag/index
+   

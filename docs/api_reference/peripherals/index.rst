@@ -6,3 +6,4 @@
 
     uart
     uart2
+    gpio

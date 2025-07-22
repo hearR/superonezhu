@@ -1,0 +1,16 @@
+.vs
+.vscode
+/out/*
+/build/*
+/tool/python/__pycache__
+/.config.old
+TODO.md
+/components/at_parser/osa_at_cmd_table.h
+/out
+/build
+/prebuilts/*
+/output/*
+prebuilts
+output
+.cache
+/docs/_build/*
